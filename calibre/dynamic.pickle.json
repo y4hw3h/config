@@ -1,0 +1,24 @@
+{
+  "add books dialog dir": "/home/y4hw3h/Documents/Books/Fiction/Science Fiction",
+  "choose calibre library": "/home/y4hw3h/Calibre Library",
+  "database location dialog": "/home/blake/Documents/Books",
+  "ebook viewer open dialog": "/home/blake/Documents/Books/Non-Fiction/Computer Science/Cybersecurity",
+  "notified-version-updates": {
+    "__class__": "set",
+    "__value__": [
+      "5.14"
+    ]
+  },
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "default",
+  "welcome_wizard_was_run": true
+}

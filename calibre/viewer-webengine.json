@@ -1,0 +1,39 @@
+{
+  "main_window_geometry": {
+    "__class__": "bytearray",
+    "__value__": "AdnQywADAAAAAAMvAAAAGQAABbIAAAMKAAADMQAAADkAAAWwAAADCAAAAAAAAAAAB4AAAAMxAAAAOQAABbAAAAMI"
+  },
+  "main_window_state": {
+    "__class__": "bytearray",
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAIgA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAAlwD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACAAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAAOwA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAEwD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAM0A////AAACgAAAAtAAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+  },
+  "old_prefs_migrated": true,
+  "session_data": {
+    "base_font_size": 22,
+    "controls_help_shown_count": 2,
+    "standalone_font_settings": {},
+    "standalone_misc_settings": {
+      "remember_last_read": true,
+      "remember_window_geometry": false,
+      "save_annotations_in_ebook": true,
+      "singleinstance": false
+    },
+    "standalone_recently_opened": [
+      {
+        "authors": [
+          "Graham McNeill"
+        ],
+        "key": "/home/y4hw3h/Calibre Library/Graham McNeill/The Lightning Hall (17)/The Lightning Hall - Graham McNeill.epub",
+        "pathtoebook": "/home/y4hw3h/Calibre Library/Graham McNeill/The Lightning Hall (17)/The Lightning Hall - Graham McNeill.epub",
+        "timestamp": "2021-04-03T02:26:07.286Z",
+        "title": "The Lightning Hall"
+      },
+      {
+        "key": "/home/blake/Documents/Books/Non-Fiction/Computer Science/Cybersecurity/Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb (z-lib.org).pdf",
+        "pathtoebook": "/home/blake/Documents/Books/Non-Fiction/Computer Science/Cybersecurity/Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb (z-lib.org).pdf",
+        "timestamp": "2021-02-02T03:38:16.266Z",
+        "title": "Linux Basics for Hackers Getting Started with Networking, Scripting, and Security in Kali by OccupyTheWeb (z-lib.org)"
+      }
+    ]
+  }
+}
